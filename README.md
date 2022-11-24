@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter-004
-- 👀 I’m interested in Front-end development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Front-end development and software engineering
+- 🌱 I’m currently learning Java and JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... peteratcod@gmail.com
 
