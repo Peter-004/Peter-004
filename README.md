@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peter-004
+- 👋 Hi, I’m Peter Adebayo
 - 👀 I’m interested in Hardware and software engineering
 - 🌱 I’m well-versed in JS, Java, C++, python, mySQL 
 - 💞️ I’m looking to collaborate on any project
