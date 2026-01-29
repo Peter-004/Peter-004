@@ -1,10 +1,51 @@
-- 👋 Hi, I’m Peter Adebayo
-- 👀 I’m interested in Hardware and software engineering
-- 🌱 I’m well-versed in JS, Java, C++, python, mySQL 
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ... peteratcod@gmail.com
+# 👋 Hi, I’m Peter Adebayo
 
-<!---
-Peter-004/Peter-004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Hardware & Software Engineer | Systems Builder | Problem Solver**
+
+I design and build software systems with an engineering-first mindset — from performance-critical logic to scalable backend services. I’m especially interested in how software interacts with hardware, networks, and real-world constraints.
+
+---
+
+## 🔗 Quick Links
+- 🌐 **Portfolio:** [Portfolio Link ->]](https://peteradebayo.vercel.app/)  
+- 💼 **LinkedIn:** https://linkedin.com/in/opemipoadebayo  
+- 📧 **Email:** opemipoadebayo1997@gmail.com  
+
+---
+
+## 🧠 Technical Stack
+
+**Languages**
+- JavaScript (Node.js)
+- Java
+- C++
+- Python
+- SQL (MySQL)
+- Verilog, VHDL
+
+**Core Interests** 
+- Real-time & networked applications  
+- Performance optimization  
+- Hardware-aware software  
+- Scalable architectures
+- Backend & systems engineering  
+
+---
+
+## 🤝 Collaboration
+I’m open to collaborating on:
+- Open-source projects
+- Systems-level or backend-heavy applications
+- Challenging engineering problems
+
+ 
+**Featured Collaboration:**  
+**SOENav** — a degree navigation platform built specifically for Rutgers School of Engineering.  
+I collaborated as part of an 8-person engineering team (GitHappens) to design and implement a tool that helps students plan and track degree requirements more effectively.
+
+🔗 https://github.com/GitH-ppens/SOENav
+If you’re building something meaningful and want a strong engineering partner — let’s connect.
+
+---
+
+⭐ *Feel free to explore my repositories or reach out directly.*
