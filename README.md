@@ -8,8 +8,8 @@ I design and build software systems with an engineering-first mindset — from p
 
 ## 🔗 Quick Links
 - 🌐 **Portfolio:** https://peteradebayo.vercel.app
-- <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/f2d82970-7b36-49a9-b039-3202a7e7d0b7" />
- **LinkedIn:** https://linkedin.com/in/opemipoadebayo  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f2d82970-7b36-49a9-b039-3202a7e7d0b7" />
+ https://linkedin.com/in/opemipoadebayo  
 - 📧 **Email:** opemipoadebayo1997@gmail.com  
 
 ---
