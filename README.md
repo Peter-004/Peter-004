@@ -2,7 +2,7 @@
 
 🚀 **Hardware & Software Engineer | Systems Builder | Problem Solver**
 
-I design and build software systems with an engineering-first mindset — from performance-critical logic to scalable backend services. I’m especially interested in how software interacts with hardware, networks, and real-world constraints.
+I design and build hardware and software systems with an engineering-first mindset — from performance-critical logic to scalable backend services. I’m especially interested in how software interacts with hardware, networks, and real-world constraints.
 
 ---
 
